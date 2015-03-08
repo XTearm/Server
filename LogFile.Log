@@ -1,0 +1,6 @@
+2015-2-25-0:22:38	Database init fail:Can't connect to MySQL server on '127.0.0.1' (10061)
+2015-2-25-0:23:28	Database init fail:Access denied for user 'root'@'localhost' (using password: YES)
+2015-2-25-0:24:11	Database init fail:Access denied for user 'roo'@'localhost' (using password: YES)
+2015-2-27-12:32:56	Database init fail:Can't connect to MySQL server on '127.0.0.1' (10061)
+2015-2-27-16:49:26	Database init fail:Can't connect to MySQL server on '127.0.0.1' (10061)
+2015-3-2-14:42:6	Database init fail:Can't connect to MySQL server on '127.0.0.1' (10061)
